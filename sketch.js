@@ -79,7 +79,8 @@ function draw() {
         box.shapeColor = "yellow";
        music.stop();
        box.velocityX = 0;
-       box.velocityY = 0;}
+       box.velocityY = 0;
+    }
        
   
     drawSprites();
